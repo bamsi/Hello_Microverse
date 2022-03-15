@@ -1,5 +1,5 @@
 #ignore nod-modules file
 /node_modules
 
-#ignore test file
+#ignore test file -
 test.md
